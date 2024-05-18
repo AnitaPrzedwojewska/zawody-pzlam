@@ -1,6 +1,6 @@
 {
   "name": "vite-template-redux",
-  "private": true,
+  "private": false,
   "homepage": "https://AnitaPrzedwojewska.github.io/zawody-pzlam",
   "version": "0.0.0",
   "type": "module",
